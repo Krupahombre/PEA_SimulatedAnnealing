@@ -1,4 +1,4 @@
-#Simulated Annealing - Travelling Salesman Problem
+# Simulated Annealing - Travelling Salesman Problem
 
 This project was made as a task for academic course **Designing Effective Algorithms** at **Wroclaw's University of Science and Technology**.
 
