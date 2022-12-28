@@ -8,6 +8,7 @@ It's an implementation of Simulated Annealing algorithm solving Travelling Sales
 - optimal cost of the specific instance
 - vertices change method (i - invert, s - swap)
 - cooling method (g - geometrical, l - logarithmic)
+- epoch length
 - cooling ratio
 - start temperature
 
