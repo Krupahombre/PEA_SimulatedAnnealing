@@ -1,0 +1,22 @@
+Nazwa pliku, Powtórzenia algorytmu, Optymalny koszt
+../Data/gr17.tsp.txt, 10, 2085
+
+Czasy wykonania [μs], Otrzymany koszt, Błąd [%], Długość epoki
+20801, 2085, 0, 10
+20077, 2085, 0, 10
+20769, 2085, 0, 10
+18993, 2085, 0, 10
+19495, 2090, 0.239807, 10
+19381, 2085, 0, 10
+19677, 2090, 0.239807, 10
+19659, 2085, 0, 10
+19389, 2085, 0, 10
+19251, 2090, 0.239807, 10
+
+Metoda zamiany: ,i
+Schemat chłodzenia: ,g
+Współczynnik chłodzenia: ,0.999999
+Temperatura początkowa: ,100
+Średni czas wykonania [μs]: ,19749.2
+Średni błąd [%]: ,0
+
